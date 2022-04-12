@@ -1,0 +1,78 @@
+1. Fejezd be a mondatot. A biztonságos weboldalakat...(Megoldás:a)
+a. HTTPS és lakat szimbólum jelöli.
+b. WWW és kilincs szimbólum jelöli.
+c. HTTP és lakat szimbólum jelöli.
+
+2. Mi a WWW?(Megoldás:c)
+a. World War Web.
+b. World Write Web.
+c. World Wide Web.
+
+3. Mi a hiperhivatkozás?(Megoldás:b)
+a. A weboldalakon található ikonok.
+b. A hiperhivatkozás vagy más néven link az interneten található dokumentumokat, információkat összeköto
+eszköz. 
+c. A hiperhivatkozás vagy más néven link az interneten található dokumentum.
+ 
+4. Hogyan aktiválható a legegyszerubben egy hiperhivatkozás?(Megoldás:c)
+a. URL begépelésével.
+b. görgetéssel.
+c. kattintással.
+ 
+5. Hány bites az IPv6 cím?(Megoldás:c)
+a. 32.
+b. 64.
+c. 128.
+
+6. Mi a WAN?(Megoldás:a)
+a. Wide Area Network.
+b. World Area Network.
+c. Wide Area Now.
+
+7. Mi az a PAN?(Megoldás:b)
+a. Public Area Network.
+b. Personal Area Network.
+c. Professonal Area Network.
+
+8. Mi a Számítógépes hálózat?(Megoldás:c)
+a. Fizikai jelenség.
+b. speciális rendszer, amely a számítógép kommunikációját blokkolja.
+c. speciális rendszer, amely a számítógép kommunikációját biztosítja.
+
+9. Mit nevezünk MAC címnek?(Megoldás:b)
+a. A hálózatban használt egyedi kliens.
+b. A hálózati eszköz fizikailag rögzített azonosítója.
+c. Egy egyedi szerverazonosító.
+
+10. Miért készítik csavart érpárból az UTP-kábeleket?(Megoldás:c)
+a. Könnyebb a végeket felszerelni.
+b. Puhább legyen, könnyen hajlítható.
+c. A zavaró hatás (az érpárok közötti áthallás) megszüntetése miatt.
+
+11. Milyen elven tárol adatokat a merevlemez?(Megoldás:a)
+a. Mágneses
+b. Ultraibolya
+c. Elektrikusan
+
+12. Minek a rövidítése a CPU?(Megoldás:c)
+a. Center Processing Unit
+b. Center Processor Unit
+c. Central Processing Unit
+
+13. Az alábbiak közül mely egységek csatlakoztatásához használhatunk SATA
+csatlakozót?(Megoldás:c)
+a. Monitor
+b. Billentyuzet
+c. optikai meghajtó
+
+14. Milyen szempont szerint nem lehet rendezni a fájlokat?(Megoldás:c)
+a. Dátum
+b. Kiterjesztés
+c. Tartalom
+
+15. Mi a memória? (Megoldás:a)
+a. Random Access Memory, közvetlen elérésu tároló, ami nem írható olvasható
+b. Regular Automatic Memory, szabályos memória, olvasható
+c. Random Access Memory, közvetlen elérésu tároló, ami írható
+
+
